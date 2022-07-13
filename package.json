@@ -1,0 +1,18 @@
+{
+  "name": "simuladorpartidafutebol",
+  "version": "1.0.0",
+  "description": "Projeto de criação de um simulador de partidas de futebol.",
+  "main": "index.ejs",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Denilson Brito",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "jquery": "^3.6.0",
+    "nodemon": "^2.0.19"
+  }
+}

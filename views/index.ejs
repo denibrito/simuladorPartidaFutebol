@@ -1,0 +1,36 @@
+<!-- 
+// Projeto Simulador de Partida de Futebol -------------
+// Dev: Denilson Brito ---------------------------------
+// Linguagem: NodeJs -----------------------------------
+-->
+
+<!doctype html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="Projeto de criação de um simulador de partidas de futebol." content="">
+        <meta name="Denilson Brito" content="">
+        <link rel="shortcut icon" type="imagem/x-icon" href="/public/imgs/iconeSite.png" />
+        <title>Simulador de Partidas de Futebol v1.0</title>
+        <link href="/public/bootstrap/bootstrap.min.css" rel="stylesheet">
+        <link href="/public/index.css" rel="stylesheet">
+    </head>
+    <body class="text-center">
+        <form class="form-signin">
+                <h1 class="h3 mb-3 font-weight-normal">DESAFIO DOS TIMES</h1>
+                <img width="80px" src="/public/imgs/flamengo.png"/>
+                <!-- Font que recebe o placar via nodejs-->
+                <font id="placar" style="font-size: 40px;"></font> 
+                <img width="80px" src="/public/imgs/vasco.png"/>
+                <br/><br/>
+                <button id="iniciarPartida" type="button" class="btn btn-success">Rolar a bola!</button>
+                <br/><br/>
+                <!--Div que recebe os lances via nodejs-->
+                <div id="minuto-a-minuto"></div>
+                <p class="mt-5 mb-3 text-muted">Desenvolvido por &copy; Denilson Brito - 2022</p>
+        </form>
+        <script src="/public/jquery/jquery.min.js"></script>
+        <script src="/public/index.js"></script>
+    </body>
+</html>
