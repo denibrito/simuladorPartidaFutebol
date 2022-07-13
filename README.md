@@ -1,5 +1,7 @@
 # Simule sua partida de futebol! ⚽
 Neste projeto você poderá simular partidas de futebol com 10 lances de minuto a minuto e torcer para que nestes lances hajam gols a favor de seu time.
+
+Para testar acesse [**ESTE LINK**](http://simulador-partida-futebol.herokuapp.com/).
 ## Informações do projeto:
 > - Dois clubes disponíveis
 >   - Flamengo
