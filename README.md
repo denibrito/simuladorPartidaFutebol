@@ -20,6 +20,9 @@ Para testar acesse [**ESTE LINK**](http://simulador-partida-futebol.herokuapp.co
 >   - "Vasco recua.",
 >   - "Flamengo e Vasco se respeitam."
 
+## Imagens:
+<picture><img width="400px" src="https://i.ibb.co/jf79X32/spf-img1.png" alt="spf-img1" border="0"></picture>
+
 ## Melhorias a serem aplicadas:
 > Legenda | ✔️: Concluído | 🔄: Atualização confirmada | ⚠️: Atualização não confirmada
 - ✔️ Armazenar e mostrar histórico de vitórias, derrotas e empates conforme partidas acontecem.
