@@ -18,7 +18,9 @@ Para testar acesse [**ESTE LINK**](https://simulador-partida-futebol.herokuapp.c
 >   - "Vasco avança!",
 >   - "Flamengo recua.", - NOVO!
 >   - "Vasco recua.", - NOVO!
->   - "Jogador do Flamengo está impedido!",
+>   - "Jogador do Flamengo está impedido!", - NOVO!
+>   - "Jogador do Vasco está impedido!", - NOVO!
+>   - "Flamengo e Vasco se respeitam.",
 >   - "Pênalti para o Flamengo!", - NOVO!
 >   - "Pênalti para o Vasco!", - NOVO!
 >   - "Substituição no Flamengo.", - NOVO!
