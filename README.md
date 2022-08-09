@@ -16,18 +16,26 @@ Para testar acesse [**ESTE LINK**](https://simulador-partida-futebol.herokuapp.c
 >   - "Falta para o Vasco!",
 >   - "Flamengo avança!",
 >   - "Vasco avança!",
->   - "Flamengo recua.",
->   - "Vasco recua.",
->   - "Flamengo e Vasco se respeitam."
+>   - "Flamengo recua.", - NOVO!
+>   - "Vasco recua.", - NOVO!
+>   - "Jogador do Flamengo está impedido!",
+>   - "Pênalti para o Flamengo!", - NOVO!
+>   - "Pênalti para o Vasco!", - NOVO!
+>   - "Substituição no Flamengo.", - NOVO!
+>   - "Substituição no Vasco.", - NOVO!
+>   - "As torcidas dão um show no estádio!", - NOVO!
+>   - "Flamengo prende a bola.", - NOVO!
+>   - "Vasco prende a bola." - NOVO!
+
 
 ## Imagens:
 <picture><img width="400px" src="https://i.ibb.co/jf79X32/spf-img1.png" alt="spf-img1" border="0"></picture>
 
 ## Melhorias a serem aplicadas:
 > Legenda | ✔️: Concluído | 🔄: Atualização confirmada | ⚠️: Atualização não confirmada
-- ✔️ Armazenar e mostrar histórico de vitórias, derrotas e empates conforme partidas acontecem.
-- ✔️ Comentar código.
-- 🔄 Adicionar mais variedade de lances.
+- ✔️ Armazenar e mostrar histórico de vitórias, derrotas e empates conforme partidas acontecem. - 13/07/2022
+- ✔️ Comentar código. - 13/07/2022
+- ✔️ Adicionar mais variedade de lances. - 08/08/2022
 - 🔄 Armazenar e mostrar mais estatísticas da partida (qtd. de escanteios, qtd. de chutes ao gol).
 - 🔄 Possibilidade de selecionar times.
 - ⚠️ Inclusão de jogadores e características.
